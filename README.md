@@ -2,7 +2,9 @@
 power bi project analysing credit card transactions and customer data
 
 The data is a sample credit card data of year 2023
-Objective: To analyse week wise credit card details
+
+Objective: To analyse week wise credit card details.
+
 Steps:
     • Database creation in PostgreSQL.
     • The files (customer.csv & credit_card.csv) are copied to the database.
